@@ -69,6 +69,7 @@ nav {
     transform-origin: right;
     transition-duration: 1s;
     transition-timing-function: ease-in-out;
+    z-index:5;
 }
 
 .sidecont {
